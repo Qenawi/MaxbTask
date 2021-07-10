@@ -32,7 +32,7 @@
 
         <variable
             name="item"
-            type="com.qm.cleanmodule.data.model.SearchItemInterface"
+            type="com.qm.maxab.data.model.SearchItemInterface"
             />
     </data>
 

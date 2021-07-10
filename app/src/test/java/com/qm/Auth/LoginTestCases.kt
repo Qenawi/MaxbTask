@@ -1,7 +1,7 @@
 package com.qm.Auth
 
 import android.content.Context
-import com.qm.cleanmodule.R
+import com.qm.maxab.R
 import junit.framework.Assert.assertEquals
 import org.junit.Test
 import org.junit.runner.RunWith

@@ -28,6 +28,6 @@
 
         <variable
             name="viewModel"
-            type="com.qm.cleanmodule.ui.fragment.home.HomeViewModel" />
+            type="com.qm.maxab.ui.fragment.currency_picker.HomeViewModel" />
     </data>
 </layout>

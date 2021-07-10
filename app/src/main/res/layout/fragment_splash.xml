@@ -7,7 +7,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.qm.cleanmodule.ui.fragment.splash.SplashViewModel" />
+            type="com.qm.maxab.ui.fragment.splash.SplashViewModel" />
     </data>
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"

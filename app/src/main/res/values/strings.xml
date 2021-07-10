@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CleanModule</string>
+    <string name="app_name">maxab</string>
     <string name="all_data_required">add data req</string>
     <string name="email">email</string>
     <string name="password">password</string>
@@ -15,4 +15,5 @@
     <string name="cancel">Cancel</string>
     <string name="network_error">check your network connection</string>
     <string name="server_error">server error</string>
+    <string name="InputFragment">inputScreen</string>
 </resources>
